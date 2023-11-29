@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Everton', '15234567801', 4000.0,'1993-01-02T10:30:00Z', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Regina', '47851245988', 2500.0,'1981-07-06T10:30:00Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Mariana', '48712059823', 7000.0,'1990-11-04T10:30:00Z', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Sergio', '82647812455', 18000.0,'1975-01-30T10:30:00Z', 3, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Augusto', '98402547863', 25000.0,'2000-07-27T10:30:00Z', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Bianca', '41285478299', 1000.0,'1997-09-15T10:30:00Z', 0, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Beatriz', '96825884528', 4750.0,'1995-04-01T10:30:00Z', 0, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Leticia', '98752478597', 1000.0,'2001-02-14T10:30:00Z', 0, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Eduardo', '45871265478', 2700.0,'1994-12-31T10:30:00Z', 4, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Pedro', '48245835425', 1550.0,'1988-05-16T10:30:00Z', 0, NOW());
